@@ -39,8 +39,6 @@
 <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/></a>
 </p>
 
-![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/solar.png)
-
 <p align="center">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=alessiocappello2&show_icons=true&locale=en&layout=compact">
 </p>
