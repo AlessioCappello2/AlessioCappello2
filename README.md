@@ -4,7 +4,7 @@
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/solar.png)
 <p>
 
-<img align="right"  alt="Coding" width=250 src="https://i.pinimg.com/originals/2a/53/65/2a53651a35816f499270d8275fd5318f.gif">
+<img align="right"  alt="Coding" width=250 src="https://camo.githubusercontent.com/66263091f4923a33b7f62ba14bf106f14855947ca5d7b9eb65750d00592c733f/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f32612f35332f36352f32613533363531613335383136663439393237306438323735666435333138662e676966">
 
 <h3 align="left">About Me:</h3>
 
