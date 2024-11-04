@@ -4,7 +4,7 @@
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/solar.png)
 <p>
 
-<img align="right"  alt="Coding" width=250 src="https://media.tenor.com/i3lImBg2UEQAAAAM/scaler-create-impact.gif">
+<img align="right"  alt="Coding" width=250 src="https://camo.githubusercontent.com/4a974e19bea0da24b376ef56cfbf7f8966cc93cf98602b61fa9f6f5d04501b49/68747470733a2f2f6d656469612e74656e6f722e636f6d2f69336c496d426732554551414141414d2f7363616c65722d6372656174652d696d706163742e676966">
 
 <h3 align="left">About Me:</h3>
 
