@@ -4,13 +4,13 @@
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/solar.png)
 <p>
 
-<img align="right"  alt="Coding" width=250 src="https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
+<img align="right"  alt="Coding" width=250 src="https://i.pinimg.com/originals/2a/53/65/2a53651a35816f499270d8275fd5318f.gif">
 
 <h3 align="left">About Me:</h3>
 
-* 📚 I'm currently a Master Student in Computer Engineering (Data Analytics & Artificial Intelligence) at Politecnico di Torino, currently working on my thesis
-* 🎓 I got my Bachelor degree in Computer Engineering at Politecnico di Torino
-* 📊 I'm primarily interested in machine learning, data science and software developing, but I tend to be curious about anything 
+* 📚 I recently got my MSc in Computer Engineering (Data Analytics & Artificial Intelligence) at Politecnico di Torino
+* 🎓 I got my Bachelor's degree in Computer Engineering at Politecnico di Torino
+* 📊 I'm primarily interested in machine learning, data science and software development, but I tend to be curious about anything 
 * 💬 I can speak fluently: Italian (native), English (Advanced - C1)
 </p>
 
