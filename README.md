@@ -1,5 +1,5 @@
 <h2 align="center">Alessio Cappello</h2>
-<h3 align="center">Computer Engineering student (Data Analytics & Artificial Intelligence)</h3>
+<h3 align="center">Computer Engineer (Data Analytics & Artificial Intelligence)</h3>
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/solar.png)
 <p>
