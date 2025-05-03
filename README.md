@@ -8,6 +8,7 @@
 
 <h3 align="left">About Me:</h3>
 
+* 💳 Currently working as a Data Engineer at Nexi Digital
 * 📚 I recently got my MSc in Computer Engineering (Data Analytics & Artificial Intelligence) at Politecnico di Torino
 * 🎓 I got my Bachelor's degree in Computer Engineering at Politecnico di Torino
 * 📊 I'm primarily interested in machine learning, data science and software development, but I tend to be curious about anything 
