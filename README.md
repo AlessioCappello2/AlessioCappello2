@@ -65,6 +65,4 @@
 
 <!--<p align="center">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=alessiocappello2&show_icons=true&locale=en&layout=compact">
-</p>
-
-![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/solar.png)--!>
+</p>-->
